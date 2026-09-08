@@ -22,7 +22,7 @@
 <main class="contenedor pagina-formulario">
     <section class="tarjeta formulario-card">
         <div class="encabezado-seccion">
-            <span class="eyebrow">EcotecStore · Nuevo registro</span>
+            <span class="eyebrow">ecotecStore · Nuevo registro</span>
             <h1>Agrega un <span style="color:var(--accent)">producto.</span></h1>
             <p>Completa los datos y guárdalos directamente en MySQL mediante el patrón MVC.</p>
         </div>
