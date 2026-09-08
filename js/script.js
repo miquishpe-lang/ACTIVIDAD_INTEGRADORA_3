@@ -26,7 +26,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    
     const form = document.getElementById('formProducto');
     const descripcion = document.getElementById('descripcion');
     const contador = document.getElementById('contadorDescripcion');
@@ -56,12 +55,12 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             if (categoria === '') {
-                mostrarError('errorCategoria', 'Selecciona una categoría.');
+                mostrarError('errorCategoria', 'Selecciona una categoria.');
                 valido = false;
             }
 
             if (precio === '' || Number.isNaN(Number(precio)) || Number(precio) <= 0) {
-                mostrarError('errorPrecio', 'Ingresa un precio numérico mayor que 0.');
+                mostrarError('errorPrecio', 'Ingresa un precio numerico mayor que 0.');
                 valido = false;
             }
 
@@ -71,7 +70,7 @@ document.addEventListener('DOMContentLoaded', () => {
             }
 
             if (descripcionValor.length > 255) {
-                mostrarError('errorDescripcion', 'La descripción no puede superar 255 caracteres.');
+                mostrarError('errorDescripcion', 'La descripcion no puede superar 255 caracteres.');
                 valido = false;
             }
 
