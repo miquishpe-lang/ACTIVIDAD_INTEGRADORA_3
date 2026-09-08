@@ -26,6 +26,7 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
+    
     const form = document.getElementById('formProducto');
     const descripcion = document.getElementById('descripcion');
     const contador = document.getElementById('contadorDescripcion');
