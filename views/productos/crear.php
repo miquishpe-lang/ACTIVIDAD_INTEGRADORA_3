@@ -43,7 +43,7 @@
         </form>
     </section>
 </main>
-<footer><div class="contenedor footer-flex"><div class="footer-brand"><span>ecotec</span>Store · Universidad Ecotec</div><div>Innovación · Conocimiento · Futuro</div></div></footer>
+<footer><div class="contenedor footer-flex"><div class="footer-brand"><span>ecotec</span>Store · Universidad Ecotec</div><div>Mike G. Quishpe A.</div></div></footer>
 <script src="js/script.js"></script>
 </body>
 </html>
