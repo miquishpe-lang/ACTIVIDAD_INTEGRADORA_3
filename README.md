@@ -47,7 +47,7 @@ actividad-integradora-3/
 2. Iniciar **Apache** y **MySQL** desde el panel de XAMPP.
 3. Abrir `http://localhost/phpmyadmin`.
 4. Importar `database/integradora.sql`.
-5. Abrir `http://localhost/actividad-integradora-3/`.
+5. Abrir `http://localhost/ACTIVIDAD_INTEGRADORA_3-main/`.
 
 La conexión incluida usa:
 - Host: `localhost`
