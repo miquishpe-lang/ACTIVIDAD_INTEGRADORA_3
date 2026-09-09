@@ -56,7 +56,7 @@ La conexión incluida usa:
 - Contraseña: vacía
 
 ## Flujo MVC
-Vista → Controlador → Modelo → Base de datos
+Vista → Controlador → Modelo → Base de datos.
 
 - **Vista:** formulario y tabla HTML.
 - **Controlador:** recibe acciones, valida en servidor y coordina el flujo.
