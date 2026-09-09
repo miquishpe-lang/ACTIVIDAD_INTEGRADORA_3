@@ -80,7 +80,7 @@ $productosDestacados = array_slice($productos, 0, 4);
                 </div>
                 <div class="visual-copy">
                     <small>ecotecStore</small>
-                    <h3>Mike G.<br>Quishpe<br>A.</h3>
+                    <h3>Innovación<br>Conocimiento<br>Futuro</h3>
                     <p>Gestión de productos con PHP, MySQL y arquitectura MVC.</p>
                 </div>
             </div>
@@ -167,7 +167,7 @@ $productosDestacados = array_slice($productos, 0, 4);
 <footer>
     <div class="contenedor footer-flex">
         <div class="footer-brand"><span>ecotec</span>Store · Universidad Ecotec</div>
-        <div>Innovación · Conocimiento · Futuro</div>
+        <div>Mike G. Quishpe A.</div>
     </div>
 </footer>
 <script src="js/script.js"></script>
