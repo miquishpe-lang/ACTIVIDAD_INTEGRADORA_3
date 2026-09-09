@@ -7,7 +7,7 @@ $productosDestacados = array_slice($productos, 0, 4);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ecotecStore | Productos</title>
+    <title>EcotecStore | Productos</title>
     <link rel="stylesheet" href="css/estilos.css">
 </head>
 <body>
@@ -80,7 +80,7 @@ $productosDestacados = array_slice($productos, 0, 4);
                 </div>
                 <div class="visual-copy">
                     <small>ecotecStore</small>
-                    <h3>Innovación<br>Conocimiento<br>Futuro</h3>
+                    <h3>Mike G.<br>Quishpe<br>A.</h3>
                     <p>Gestión de productos con PHP, MySQL y arquitectura MVC.</p>
                 </div>
             </div>
